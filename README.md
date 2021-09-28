@@ -1,4 +1,4 @@
 # AVL-and-RB-Tress-in-Practice
-Um cenário para o gerenciamento de pedidos de um departamento online de compras usando árvores AVL e Red-Black.
+A scenario for order management of an online purchasing department using AVL and Red-Black trees.
 
-Atividade desenvolvida na disciplina de Estruturas de Dados Avançados usando C++.
+Activity developed in the Advanced Data Structures discipline using C++.
